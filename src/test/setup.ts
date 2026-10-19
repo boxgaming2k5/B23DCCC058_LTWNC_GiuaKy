@@ -1,4 +1,4 @@
-import '@testing-library/jest-dom/vitest'
+import '@testing-library/jest-dom'
 import { vi } from 'vitest'
 
 // Map globalThis.jest to vi for full Jest compatibility
